@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sky and Beyond">
+  <rect width="64" height="64" rx="10" fill="#4fe1ea"/>
+  <path d="M11 46h42" stroke="#040e19" stroke-width="1.5" opacity=".35"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#040e19">&amp;</text>
+</svg>

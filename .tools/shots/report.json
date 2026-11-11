@@ -1,0 +1,337 @@
+{
+  "consoleErrors": [],
+  "pageErrors": [],
+  "overflow": {
+    "desktop": {
+      "scrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "innerWidth": 1440,
+      "viewportHeight": 900,
+      "documentHeight": 9693
+    },
+    "tablet-1024": {
+      "scrollWidth": 1024,
+      "bodyScrollWidth": 1024,
+      "innerWidth": 1024,
+      "viewportHeight": 900,
+      "documentHeight": 8200
+    },
+    "tablet-768": {
+      "scrollWidth": 768,
+      "bodyScrollWidth": 768,
+      "innerWidth": 768,
+      "viewportHeight": 1024,
+      "documentHeight": 10749
+    },
+    "mobile-390": {
+      "scrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "innerWidth": 390,
+      "viewportHeight": 844,
+      "documentHeight": 10901
+    },
+    "/actualites-1440": {
+      "scrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "innerWidth": 1440,
+      "viewportHeight": 900,
+      "documentHeight": 2051
+    },
+    "/actualites/2026-11-11-bienvenue-a-bord-1440": {
+      "scrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "innerWidth": 1440,
+      "viewportHeight": 900,
+      "documentHeight": 3184
+    },
+    "/actualites-390": {
+      "scrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "innerWidth": 390,
+      "viewportHeight": 844,
+      "documentHeight": 2039
+    },
+    "/actualites/2026-11-11-bienvenue-a-bord-390": {
+      "scrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "innerWidth": 390,
+      "viewportHeight": 844,
+      "documentHeight": 2762
+    }
+  },
+  "interactions": {
+    "menuOpen": {
+      "expanded": "true",
+      "dialogVisible": true,
+      "bodyOverflow": "hidden",
+      "focused": "Accueil01"
+    },
+    "menuClosed": {
+      "dialogGone": true,
+      "expanded": "false",
+      "focusReturned": "menu-toggle"
+    },
+    "faq": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "firstFocus": {
+      "text": "Comment rejoindre le serveur ?",
+      "className": "",
+      "outline": "2px solid rgb(79, 225, 234)",
+      "top": 1694
+    },
+    "copy": "Adresse non configurée : bouton absent"
+  },
+  "images": {
+    "desktop": [
+      {
+        "page": "desktop",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fhero-archipelago.webp&w=1920&q=75",
+        "alt": "Illustration d’un archipel flottant au crépuscule, avec un appareil volant au-dessus d’une île éclairée.",
+        "complete": true,
+        "naturalWidth": 1440,
+        "width": 1454,
+        "height": 909
+      },
+      {
+        "page": "desktop",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fislands.webp&w=640&q=75",
+        "alt": "Illustration d’une île suspendue avec une maison, des arbres et deux personnages.",
+        "complete": true,
+        "naturalWidth": 576,
+        "width": 518,
+        "height": 648
+      },
+      {
+        "page": "desktop",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fairship.webp&w=828&q=75",
+        "alt": "Illustration d’un quai d’envol avec un appareil volant au-dessus d’une île.",
+        "complete": true,
+        "naturalWidth": 792,
+        "width": 737,
+        "height": 461
+      },
+      {
+        "page": "desktop",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Farchipelago-wide.webp&w=1920&q=75",
+        "alt": "Illustration panoramique de plusieurs îles flottantes séparées par le vide.",
+        "complete": true,
+        "naturalWidth": 1440,
+        "width": 1440,
+        "height": 702
+      },
+      {
+        "page": "desktop",
+        "src": "",
+        "alt": "Illustration d’une île suspendue avec une maison et des arbres.",
+        "complete": false,
+        "naturalWidth": 0,
+        "width": 254,
+        "height": 317
+      },
+      {
+        "page": "desktop",
+        "src": "",
+        "alt": "Illustration d’une île avec des bâtiments à l’aube.",
+        "complete": false,
+        "naturalWidth": 0,
+        "width": 254,
+        "height": 317
+      },
+      {
+        "page": "desktop",
+        "src": "",
+        "alt": "Illustration d’une île avec des bâtiments et des personnages.",
+        "complete": false,
+        "naturalWidth": 0,
+        "width": 254,
+        "height": 317
+      },
+      {
+        "page": "desktop",
+        "src": "",
+        "alt": "",
+        "complete": false,
+        "naturalWidth": 0,
+        "width": 740,
+        "height": 463
+      }
+    ],
+    "mobile": [
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fhero-archipelago.webp&w=1920&q=75",
+        "alt": "Illustration d’un archipel flottant au crépuscule, avec un appareil volant au-dessus d’une île éclairée.",
+        "complete": true,
+        "naturalWidth": 389,
+        "width": 394,
+        "height": 324
+      },
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fislands.webp&w=828&q=75",
+        "alt": "Illustration d’une île suspendue avec une maison, des arbres et deux personnages.",
+        "complete": true,
+        "naturalWidth": 390,
+        "width": 350,
+        "height": 263
+      },
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fairship.webp&w=828&q=75",
+        "alt": "Illustration d’un quai d’envol avec un appareil volant au-dessus d’une île.",
+        "complete": true,
+        "naturalWidth": 390,
+        "width": 348,
+        "height": 261
+      },
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Farchipelago-wide.webp&w=1920&q=75",
+        "alt": "Illustration panoramique de plusieurs îles flottantes séparées par le vide.",
+        "complete": true,
+        "naturalWidth": 389,
+        "width": 390,
+        "height": 440
+      },
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fislands.webp&w=828&q=75",
+        "alt": "Illustration d’une île suspendue avec une maison et des arbres.",
+        "complete": true,
+        "naturalWidth": 390,
+        "width": 350,
+        "height": 280
+      },
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fcover-dawn.webp&w=1080&q=75",
+        "alt": "Illustration d’une île avec des bâtiments à l’aube.",
+        "complete": true,
+        "naturalWidth": 390,
+        "width": 350,
+        "height": 280
+      },
+      {
+        "page": "mobile",
+        "src": "",
+        "alt": "Illustration d’une île avec des bâtiments et des personnages.",
+        "complete": false,
+        "naturalWidth": 0,
+        "width": 350,
+        "height": 280
+      },
+      {
+        "page": "mobile",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fcover-dawn.webp&w=1080&q=75",
+        "alt": "",
+        "complete": true,
+        "naturalWidth": 390,
+        "width": 350,
+        "height": 219
+      }
+    ],
+    "desktop-news-index": [
+      {
+        "page": "desktop-news-index",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fcover-dawn.webp&w=1080&q=75",
+        "alt": "",
+        "complete": true,
+        "naturalWidth": 864,
+        "width": 846,
+        "height": 529
+      }
+    ],
+    "desktop-article": [
+      {
+        "page": "desktop-article",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fcover-dawn.webp&w=1920&q=75",
+        "alt": "Illustration d’une île flottante éclairée à l’aube.",
+        "complete": true,
+        "naturalWidth": 1200,
+        "width": 1325,
+        "height": 745
+      }
+    ],
+    "mobile-news-index": [
+      {
+        "page": "mobile-news-index",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fcover-dawn.webp&w=1920&q=75",
+        "alt": "",
+        "complete": true,
+        "naturalWidth": 324,
+        "width": 350,
+        "height": 219
+      }
+    ],
+    "mobile-article": [
+      {
+        "page": "mobile-article",
+        "src": "http://localhost:3100/_next/image?url=%2Fimages%2Fcover-dawn.webp&w=1920&q=75",
+        "alt": "Illustration d’une île flottante éclairée à l’aube.",
+        "complete": true,
+        "naturalWidth": 324,
+        "width": 350,
+        "height": 263
+      }
+    ]
+  },
+  "shots": [
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-hero.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-manifesto.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-features.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-world.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-factions.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-community.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-news.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-faq.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-join.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-desktop-footer.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/desktop-full.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/tablet-1024-full.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/tablet-768-full.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-hero.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-manifesto.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-features.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-world.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-factions.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-community.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-news.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-faq.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-join.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/viewport-mobile-footer.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/mobile-full.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/mobile-menu.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/mobile-faq-open.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/mobile-skip-link-focused.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/desktop-news-index.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/desktop-article.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/mobile-news-index.png",
+    "/home/nathan/Documents/SnB/web/.tools/shots/mobile-article.png"
+  ],
+  "heroPanel": {
+    "display": "block",
+    "opacity": "1",
+    "visibility": "visible",
+    "zIndex": "2",
+    "animation": "hero-rise 1s 0.52s both",
+    "rect": {
+      "x": 1082,
+      "y": 371,
+      "w": 300,
+      "h": 325
+    }
+  },
+  "meta": {
+    "title": "Bienvenue à bord · Sky & Beyond",
+    "description": "Le site officiel de Sky & Beyond ouvre. Voici ce qu’il rassemble, et ce qu’il laisse volontairement au jeu.",
+    "ogImage": "https://skyandbeyond.example/images/cover-dawn.webp",
+    "h1": "Bienvenue à bord"
+  }
+}
